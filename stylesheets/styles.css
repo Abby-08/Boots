@@ -91,10 +91,10 @@ h6 {
 }
 
 /* line 86, ../sass/styles.scss */
-.container {
-  background-image: url("../images/11.jpg");
+.content {
+  background-image: url("../images/17.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
-  opacity: 0.2;
+  opacity: 0.5;
 }
