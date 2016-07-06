@@ -37,15 +37,40 @@ body {
   height: 100%;
 }
 
-/* line 129, ../sass/styles.scss */
-h2.logo {
+/*Header Section*/
+/* line 38, ../sass/styles.scss */
+#d {
+  background-image: url("../images/16.jpg");
+  padding-top: 5px;
+  background-attachment: inherit;
+  background-position: center center;
+  min-height: 700px;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  color: white;
+}
+
+/* line 52, ../sass/styles.scss */
+#d h3 {
+  margin-top: 10px;
+}
+
+/* line 56, ../sass/styles.scss */
+#d i {
+  font-size: 50px;
+}
+
+/* line 60, ../sass/styles.scss */
+#d.logo {
   margin-top: 30px;
   margin-left: 40px;
   padding-bottom: 150px;
 }
 
-/* line 135, ../sass/styles.scss */
-h2.logo h2 {
+/* line 66, ../sass/styles.scss */
+#d.logo h2 {
   font-weight: 900;
   color: white;
   letter-spacing: 1px;
